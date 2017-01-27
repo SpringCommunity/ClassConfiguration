@@ -10,6 +10,6 @@ public class IndexController {
 	/* Map controller với view*/
      @RequestMapping(value="/", method=RequestMethod.GET)
      public String showIndex(){
-    	 return "Hello Spring Community";
+    	 return "index";
      }
 }

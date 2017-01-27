@@ -1,5 +1,5 @@
 
-Tutorial: CONFIGURE SPRING USING ANNOTATION <br />
+Tutorial: configure project using annotation <br />
 Content: show how to configure a project using annotation in Spring Framework <br />
 Date created: Friday 27 Jan 2017 <br />                                      
 Author: Dinh Duc <br />                        
