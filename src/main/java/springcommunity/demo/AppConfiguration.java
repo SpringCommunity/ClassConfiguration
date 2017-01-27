@@ -37,7 +37,7 @@ public class AppConfiguration extends WebMvcConfigurerAdapter{
 		message.setDefaultEncoding("UTF-8");
 		return message;
 	}
-    /* Spring sẽ scan các file js, css, img nằm trong thư mục */
+    /* Spring sẽ scan các file js, css, img nằm trong thư mục resources */
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		registry.addResourceHandler("/resources/**").addResourceLocations("/resources");
