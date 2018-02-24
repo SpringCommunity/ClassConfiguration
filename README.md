@@ -12,9 +12,6 @@
 - copy dependencies to the POM file and then use Maven to update project: spring-context, spring-webmvc, javax.servlet-api, javax.inject
 - create AppConfiguration class in base package and we start configure project from there
 
-# Demo
-https://basicannotation.herokuapp.com/basicannotation/login
-
 # Author
 - Dinh Duc Thinh
 - Student at <b>Haaga Helia University</b>
